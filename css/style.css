@@ -233,7 +233,7 @@ button {
 }
 
 .field button {
-    background: #9020C8;
+    background: #FAA71A;
     color: #fff;
     font-size: 14px;
     width: auto;
@@ -252,7 +252,7 @@ button {
 
 .field button:hover, .field button:focus {
     background: #ffffff;
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 .border_circle_bt {
@@ -851,7 +851,7 @@ section .small_head h2 {
 }
 
 .heading_main h2 span {
-    color: #7720c2;
+    color: #0060ac;
 }
 
 .header_bg_transparent {
@@ -876,7 +876,7 @@ div.left_head ul li {
 div.left_head ul li i {
     font-size: 16px;
     margin-right: 5px;
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 .right_head {
@@ -995,7 +995,7 @@ div.left_head ul li i {
 .menu > ul > li:hover > a,
 .menu > ul > li:focus > a,
 .menu > ul > li.active > a {
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 .menu > ul > li > ul {
@@ -1014,7 +1014,7 @@ div.left_head ul li i {
     background-size: cover;
     background-position: right bottom;
     min-height: 420px;
-    border-top: solid #2c00d2 5px;
+    border-top: solid #0060ac 5px;
 }
 
 .menu > ul > li > ul:before,
@@ -1049,7 +1049,7 @@ div.left_head ul li i {
 }
 
 .menu > ul > li > ul > li a:hover {
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 .menu > ul > li > ul > li >ul {
@@ -1273,7 +1273,7 @@ section .social_icons {
 }
 
 .color_heading h4 {
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 .double_line_heading h2 {
@@ -1355,8 +1355,8 @@ h3.heading_2 {
 
 .app-features li:hover > i,
 .app-features li:focus > i {
-    background: #2c00d2;
-    border-color: #2c00d2;
+    background: #0060ac;
+    border-color: #0060ac;
     color: #fff;
 }
 
@@ -1409,11 +1409,11 @@ section.cross_layout {
 
 .cont_theme_blog h3 {
     text-transform: uppercase;
-    background: linear-gradient(to right, #2c00d2 0%, #9020C8 100%);
-    background: -webkit-linear-gradient(to right, #2c00d2 0%, #9020C8 100%);
-    background: -moz-linear-gradient(to right, #2c00d2 0%, #9020C8 100%);
-    background: -ms-linear-gradient(to right, #2c00d2 0%, #9020C8 100%);
-    background: -o-linear-gradient(to right, #2c00d2 0%, #9020C8 100%);
+    background: linear-gradient(to right, #0060ac 0%, #FAA71A 100%);
+    background: -webkit-linear-gradient(to right, #0060ac 0%, #FAA71A 100%);
+    background: -moz-linear-gradient(to right, #0060ac 0%, #FAA71A 100%);
+    background: -ms-linear-gradient(to right, #0060ac 0%, #FAA71A 100%);
+    background: -o-linear-gradient(to right, #0060ac 0%, #FAA71A 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-transform: none;
@@ -1444,12 +1444,12 @@ section.cross_layout {
 }
 
 .table_price_head {
-    background: #9020C8;
+    background: #FAA71A;
     min-height: 80px;
 }
 
 .active_price .table_price_head {
-    background: #2c00d2;
+    background: #0060ac;
 }
 
 .table_price_head h5 {
@@ -1466,7 +1466,7 @@ section.cross_layout {
 
 .table_price_per p {
     font-size: 45px;
-    color: #2c00d2;
+    color: #0060ac;
     font-weight: 600;
 }
 
@@ -1514,7 +1514,7 @@ section.cross_layout {
 }
 
 .team_imform p.team_mem_name {
-    color: #2c00d2;
+    color: #0060ac;
     font-weight: 500;
     font-size: 18px;
     margin-bottom: 5px;
@@ -1568,7 +1568,7 @@ section.cross_layout {
 }
 
 .post_info ul li i {
-    color: #2c00d2;
+    color: #0060ac;
 }
 
 
@@ -1579,7 +1579,7 @@ section.cross_layout {
 .contact_section {
     background-position: right bottom;
     background-repeat: no-repeat;
-    background-color: #2c00d2;
+    background-color: #0060ac;
     height: 600px;
 }
 
@@ -1723,7 +1723,7 @@ footer {
     min-height: 50px;
     text-align: center;
     line-height: 50px;
-    background: #2c00d2;
+    background: #0060ac;
 }
 
 .footer_bottom p {
@@ -1761,7 +1761,7 @@ footer {
 }
 
 .footer-links a:hover, .footer a:hover {
-    color: #2c00d2 !important;
+    color: #0060ac !important;
 }
 
 .footer-links a i {
@@ -2033,7 +2033,7 @@ p {
 }
 
 .name-dev {
-    color: #7156d7;
+    color: #0060ac;
     font-weight: normal;
 }
 
@@ -2050,4 +2050,8 @@ p {
     height: 30px !important;
     line-height: 30px !important;
     background-color: #6a6a6a; 
+}
+
+a {
+    color: #0060ac;
 }
